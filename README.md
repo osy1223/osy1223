@@ -4,7 +4,7 @@
 
 - 📫 How to reach me
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.osy1223/)](https://zzsza.github.io/)
+  [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/osu1223/)](//https://blog.naver.com/osu1223/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osu1223@gmail.com)](mailto:osu1223@gmail.com)
 	
 	
