@@ -4,7 +4,8 @@
 <br />
 <br />
 <br />
-- ⚡ Skills
+
+## ⚡ Skills
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)]()
 [![Java Badge](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)]()
