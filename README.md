@@ -19,9 +19,7 @@
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)]()
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white)]()
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white)]() 
-
-
-
+    
 - 📫 How to reach me
 
   [![Blog Badge](http://img.shields.io/badge/blog-green?style=flat-square&logo=github&link=https://blog.naver.com/osu1223/)](https://blog.naver.com/osu1223/)			
