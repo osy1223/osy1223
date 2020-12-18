@@ -22,6 +22,13 @@
 [![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)]()
 [![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white)]()
 
+[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)]() 
+[![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white)]() 
+
+[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white)]() 
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)]()
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white)]()
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white)]() 
 
 <!--
 **osy1223/osy1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
