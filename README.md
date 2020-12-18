@@ -19,6 +19,9 @@
 [![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)]()
 [![scikitlearn Badge](https://img.shields.io/badge/scikitlearn-F7931E?logo=scikit-learn&logoColor=white)]()
 
+[![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)]()
+[![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white)]()
+
 
 <!--
 **osy1223/osy1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
