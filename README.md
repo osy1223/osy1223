@@ -6,10 +6,12 @@
 
   [![Blog Badge](http://img.shields.io/badge/blog-green?style=flat-square&logo=github&link=https://blog.naver.com/osu1223/)](https://blog.naver.com/osu1223/)			
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osu1223@gmail.com)](mailto:osu1223@gmail.com)
-	
-	
+		
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=osy1223)](https://github.com/osy1223)
 
+
+- ⚡ Skills:
+https://img.shields.io/badge/<LABEL>-<python>-<blue>
 
 
 <!--
