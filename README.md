@@ -14,12 +14,11 @@
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)]()
 [![Java Badge](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)]()
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white)]() 
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white)]() 
+
 [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)]()
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)]()
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)]()
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)]()
+[![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)]()
+[![scikit-learn Badge](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white)]()
+
 
 <!--
 **osy1223/osy1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
