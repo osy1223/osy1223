@@ -4,9 +4,9 @@
 
 - 📫 How to reach me
 
-  [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-green?style=flat-square&logo=github&link=https://blog.naver.com/osu1223/)](https://blog.naver.com/osu1223/)
+  [![Blog Badge](http://img.shields.io/badge/blog-green?style=flat-square&logo=github&link=https://blog.naver.com/osu1223/)](https://blog.naver.com/osu1223/)
 			
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osu1223@gmail.com)](mailto:osu1223@gmail.com)
 	
 	
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=osy1223)](https://github.com/anuraghazra/github-readme-stats)
