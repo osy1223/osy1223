@@ -10,8 +10,8 @@
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=osy1223)](https://github.com/osy1223)
 
 
-- ⚡ Skills:
-https://img.shields.io/badge/< >-<python>-<blue>
+- ⚡ Skills
+https://img.shields.io/static/v1?label=<LABEL>&message=<python>&color=<blue>
 
 
 <!--
