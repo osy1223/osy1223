@@ -17,7 +17,7 @@
 
 [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)]()
 [![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)]()
-[![scikit-learn Badge](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white)]()
+[![scikitlearn Badge](https://img.shields.io/badge/scikitlearn-F7931E?logo=scikit-learn&logoColor=white)]()
 
 
 <!--
