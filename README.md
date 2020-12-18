@@ -14,7 +14,6 @@
 
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)]() 
 [![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white)]() 
-
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white)]() 
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)]()
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white)]()
