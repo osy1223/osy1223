@@ -11,7 +11,7 @@
 
 
 - ⚡ Skills:
-https://img.shields.io/badge/<LABEL>-<python>-<blue>
+https://img.shields.io/badge/< >-<python>-<blue>
 
 
 <!--
