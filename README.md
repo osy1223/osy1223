@@ -12,7 +12,7 @@
 
 - ⚡ Skills
 [![python Badge](https://img.shields.io/badge/logo-test-3776AB?logo=python&logoColor=white&logoWidth=40/)
-[![python Badge](https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white&logoWidth=40/)
+https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white
 
 <!--
 **osy1223/osy1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
