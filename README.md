@@ -7,8 +7,7 @@
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)]()
 [![Java Badge](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)]()
 
-[![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)]
-[![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)]()
+[![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)]() [![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)]()
 [![scikitlearn Badge](https://img.shields.io/badge/scikitlearn-F7931E?logo=scikit-learn&logoColor=white)]()
 
 [![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)]()
